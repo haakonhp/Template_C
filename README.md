@@ -35,14 +35,14 @@ To tell Git to use the template file (globally, not just in the current repo), I
 git config --global commit.template ~/.gitmessage
 
 
-https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733
-https://gist.github.com/median-man/3a7c4324005e96f02691f3a20aeac26b
+https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733 
+https://gist.github.com/median-man/3a7c4324005e96f02691f3a20aeac26b 
 ____________________________________________________________________________________________________________
 
 Set-up CLion:
 
 How to change settings/default settings:
-https://www.jetbrains.com/help/clion/configure-project-settings.html
-https://www.jetbrains.com/help/clion/configuring-project-and-ide-settings.html
-https://www.jetbrains.com/help/clion/system-settings.html
+https://www.jetbrains.com/help/clion/configure-project-settings.html 
+https://www.jetbrains.com/help/clion/configuring-project-and-ide-settings.html 
+https://www.jetbrains.com/help/clion/system-settings.html 
 ____________________________________________________________________________________________________________
