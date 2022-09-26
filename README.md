@@ -39,7 +39,7 @@ https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733
 https://gist.github.com/median-man/3a7c4324005e96f02691f3a20aeac26b
 ____________________________________________________________________________________________________________
 
-Set-up IntelliJ:
+Set-up CLion:
 
 How to change settings/default settings:
 https://www.jetbrains.com/help/clion/configure-project-settings.html
