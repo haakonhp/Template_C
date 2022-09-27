@@ -43,7 +43,9 @@ https://thoughtbot.com/blog/better-commit-messages-with-a-gitmessage-template <b
 ____________________________________________________________________________________________________________<br>
 ### Set-up CLion: <br>
 #### How to change settings/default settings: <br>
+https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html <br>
 https://www.jetbrains.com/help/clion/configure-project-settings.html <br>
 https://www.jetbrains.com/help/clion/configuring-project-and-ide-settings.html <br>
 https://www.jetbrains.com/help/clion/system-settings.html <br>
+https://www.jetbrains.com/help/clion/remote-projects-support.html <br>
 ____________________________________________________________________________________________________________<br>
